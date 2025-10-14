@@ -222,8 +222,8 @@ body {
 }
 
 .about {
-    margin: 120px 24px 0;
     display: grid;
+    margin: 120px 24px 0;
     grid-template-columns: 334px 1fr;
     justify-items: center;
     gap: 25px;
