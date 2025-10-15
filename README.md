@@ -1,1 +1,1 @@
-https://github.com/Kazuto-git/ono-tebe-nado
+https://github.com/Kazuto-git/ono-tebe-nado-ad
